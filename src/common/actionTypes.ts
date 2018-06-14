@@ -1,0 +1,4 @@
+export const actionTypes = {
+    UPDATE_USERPROFILE_NAME : 'UPDATE_USERPROFILE_NAME',
+    GET_ALL_PHONES: 'GET_ALL_PHONES',
+  }
